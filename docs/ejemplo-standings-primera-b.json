@@ -1,0 +1,1653 @@
+
+
+rows:
+[]
+16 Items
+
+0:
+{}
+13 Keys
+id:
+2110904
+
+team:
+{}
+13 Keys
+name:
+"Santiago Wanderers"
+slug:
+"santiago-wanderers"
+shortName:
+"Wanderers"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+7375
+nameCode:
+"SW"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3150
+
+teamColors:
+{}
+3 Keys
+primary:
+"#006600"
+secondary:
+"#006600"
+text:
+"#006600"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+3 Keys
+ar:
+"سانتياغو ووندررز"
+hi:
+"सेंटिआगो वांडरर्स"
+ru:
+"Сантьяго Вондерерс"
+shortNameTranslation:
+{}
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+11
+text:
+"Promotion"
+position:
+1
+matches:
+24
+wins:
+12
+losses:
+4
+draws:
+8
+scoresFor:
+40
+scoresAgainst:
+25
+points:
+44
+scoreDiffFormatted:
+"+15"
+
+1:
+{}
+13 Keys
+id:
+2110892
+
+team:
+{}
+14 Keys
+name:
+"CD Cobreloa"
+slug:
+"cobreloa"
+shortName:
+"Cobreloa"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+8281
+nameCode:
+"COC"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3159
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ff3300"
+secondary:
+"#ff3300"
+text:
+"#ff3300"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"كوبريولا"
+ru:
+"Кобрелоа Калама"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"كوبريولا"
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+26
+text:
+"Promotion Playoffs"
+position:
+2
+matches:
+24
+wins:
+11
+losses:
+4
+draws:
+9
+scoresFor:
+42
+scoresAgainst:
+27
+points:
+42
+scoreDiffFormatted:
+"+15"
+
+2:
+{}
+13 Keys
+id:
+2110902
+
+team:
+{}
+14 Keys
+name:
+"San Luis de Quillota"
+slug:
+"san-luis-de-quillota"
+shortName:
+"San Luis"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+4676
+nameCode:
+"SLQ"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+39220
+
+teamColors:
+{}
+3 Keys
+primary:
+"#fbe707"
+secondary:
+"#fbe707"
+text:
+"#fbe707"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"سان لويس دي كويلوتا"
+ru:
+"Сан Луис Де Кильота"
+shortNameTranslation:
+{}
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+14
+text:
+"Qualification Playoffs"
+position:
+3
+matches:
+24
+wins:
+11
+losses:
+5
+draws:
+8
+scoresFor:
+38
+scoresAgainst:
+29
+points:
+41
+scoreDiffFormatted:
+"+9"
+
+3:
+{}
+13 Keys
+id:
+2110899
+
+team:
+{}
+14 Keys
+name:
+"Deportes Magallanes"
+slug:
+"deportes-magallanes"
+shortName:
+"Magallanes"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+5551
+nameCode:
+"MAG"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+89508
+
+teamColors:
+{}
+3 Keys
+primary:
+"#009de4"
+secondary:
+"#091e35"
+text:
+"#091e35"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"ديبورتيس ماجلان"
+ru:
+"Депортес Магальянес"
+shortNameTranslation:
+{}
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+14
+text:
+"Qualification Playoffs"
+position:
+4
+matches:
+25
+wins:
+11
+losses:
+7
+draws:
+7
+scoresFor:
+41
+scoresAgainst:
+38
+points:
+40
+scoreDiffFormatted:
+"+3"
+
+4:
+{}
+13 Keys
+id:
+2110891
+
+team:
+{}
+14 Keys
+name:
+"Club Deportes Antofagasta"
+slug:
+"antofagasta"
+shortName:
+"Antofagasta"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+5234
+nameCode:
+"ANT"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+5601
+
+teamColors:
+{}
+3 Keys
+primary:
+"#153ac5"
+secondary:
+"#ffffff"
+text:
+"#ffffff"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"أنتوفاغاستا"
+ru:
+"Антофагаста"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"أنتوفاغاستا"
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+14
+text:
+"Qualification Playoffs"
+position:
+5
+matches:
+25
+wins:
+10
+losses:
+7
+draws:
+8
+scoresFor:
+42
+scoresAgainst:
+26
+points:
+38
+scoreDiffFormatted:
+"+16"
+
+5:
+{}
+13 Keys
+id:
+2110901
+
+team:
+{}
+13 Keys
+name:
+"Deportes Recoleta"
+slug:
+"deportes-recoleta"
+shortName:
+"Recoleta"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+4249
+nameCode:
+"REC"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+284309
+
+teamColors:
+{}
+3 Keys
+primary:
+"#02286f"
+secondary:
+"#ffffff"
+text:
+"#ffffff"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"ديبورتيس ريكوليتا"
+ru:
+"Депортис Реколетта"
+
+shortNameTranslation:
+{}
+2 Keys
+ar:
+"ريكوليتا"
+ru:
+"Реколетта"
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+14
+text:
+"Qualification Playoffs"
+position:
+6
+matches:
+25
+wins:
+10
+losses:
+7
+draws:
+8
+scoresFor:
+36
+scoresAgainst:
+33
+points:
+38
+scoreDiffFormatted:
+"+3"
+
+6:
+{}
+13 Keys
+id:
+2110903
+
+team:
+{}
+13 Keys
+name:
+"San Marcos de Arica"
+slug:
+"san-marcos-de-arica"
+shortName:
+"Arica"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+4302
+nameCode:
+"SMA"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+39219
+
+teamColors:
+{}
+3 Keys
+primary:
+"#007dff"
+secondary:
+"#003399"
+text:
+"#003399"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"سان ماركوس دي أريكا"
+ru:
+"Сан Маркос Де Арика"
+shortNameTranslation:
+{}
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+14
+text:
+"Qualification Playoffs"
+position:
+7
+matches:
+25
+wins:
+9
+losses:
+7
+draws:
+9
+scoresFor:
+31
+scoresAgainst:
+23
+points:
+36
+scoreDiffFormatted:
+"+8"
+
+7:
+{}
+13 Keys
+id:
+2110905
+
+team:
+{}
+13 Keys
+name:
+"Unión Española"
+slug:
+"union-espanola"
+shortName:
+"Unión Española"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+11277
+nameCode:
+"ESP"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3153
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ff0000"
+secondary:
+"#ffff00"
+text:
+"#ffff00"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"يونين إسبانيولا"
+ru:
+"Юнион Эспаньола"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"يونين إسبانيولا"
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+14
+text:
+"Qualification Playoffs"
+position:
+8
+matches:
+25
+wins:
+10
+losses:
+9
+draws:
+6
+scoresFor:
+32
+scoresAgainst:
+32
+points:
+36
+scoreDiffFormatted:
+"0"
+
+8:
+{}
+12 Keys
+id:
+2110900
+
+team:
+{}
+13 Keys
+name:
+"Deportes Puerto Montt"
+slug:
+"deportes-puerto-montt"
+shortName:
+"Puerto Montt"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+4375
+nameCode:
+"PUM"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3158
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ffffff"
+secondary:
+"#009242"
+text:
+"#009242"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"ديبورتيس بورتو مونت"
+ru:
+"Пуэрто Монтт"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"بورتو مونت"
+descriptions:
+[]
+position:
+9
+matches:
+25
+wins:
+10
+losses:
+11
+draws:
+4
+scoresFor:
+26
+scoresAgainst:
+31
+points:
+34
+scoreDiffFormatted:
+"-5"
+
+9:
+{}
+12 Keys
+id:
+2110894
+
+team:
+{}
+13 Keys
+name:
+"Deportes Temuco"
+slug:
+"deportes-temuco"
+shortName:
+"Temuco"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+5909
+nameCode:
+"DTM"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+119072
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ffffff"
+secondary:
+"#008000"
+text:
+"#008000"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+3 Keys
+ar:
+"ديبورتيس تيموكو"
+hi:
+"क्लब डी डेपोर्टेस टेमुको सदप"
+ru:
+"Депортес Темуко"
+shortNameTranslation:
+{}
+descriptions:
+[]
+position:
+10
+matches:
+25
+wins:
+8
+losses:
+9
+draws:
+8
+scoresFor:
+40
+scoresAgainst:
+35
+points:
+32
+scoreDiffFormatted:
+"+5"
+
+10:
+{}
+12 Keys
+id:
+2110897
+
+team:
+{}
+14 Keys
+name:
+"Deportes Copiapó"
+slug:
+"deportes-copiapo"
+shortName:
+"Deportes Copiapó"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+5371
+nameCode:
+"COP"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+89506
+
+teamColors:
+{}
+3 Keys
+primary:
+"#fe0000"
+secondary:
+"#f0f0f0"
+text:
+"#f0f0f0"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"ديبورتيس كوبية"
+ru:
+"Депортес Копьяпо"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"ديبورتيس كوبية"
+descriptions:
+[]
+position:
+11
+matches:
+24
+wins:
+8
+losses:
+9
+draws:
+7
+scoresFor:
+33
+scoresAgainst:
+38
+points:
+31
+scoreDiffFormatted:
+"-5"
+
+11:
+{}
+12 Keys
+id:
+2110898
+
+team:
+{}
+13 Keys
+name:
+"Deportes Iquique"
+slug:
+"deportes-iquique"
+shortName:
+"Iquique"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+10815
+nameCode:
+"IQU"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+33596
+
+teamColors:
+{}
+3 Keys
+primary:
+"#66ccff"
+secondary:
+"#999900"
+text:
+"#999900"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+3 Keys
+ar:
+"ديبورتيز إيكوك"
+hi:
+"डेपोर्टेस ईक़ुइके"
+ru:
+"Муниципал Икике"
+shortNameTranslation:
+{}
+descriptions:
+[]
+position:
+12
+matches:
+25
+wins:
+6
+losses:
+9
+draws:
+10
+scoresFor:
+33
+scoresAgainst:
+30
+points:
+28
+scoreDiffFormatted:
+"+3"
+
+12:
+{}
+12 Keys
+id:
+2110896
+
+team:
+{}
+13 Keys
+name:
+"Curicó Unido"
+slug:
+"curico-unido"
+shortName:
+"Curicó Unido"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+6329
+nameCode:
+"CUR"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+33595
+
+teamColors:
+{}
+3 Keys
+primary:
+"#e60004"
+secondary:
+"#222226"
+text:
+"#222226"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"كوريكو أونييدو"
+ru:
+"Курико Унидо"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"كوريكو أونييدو"
+
+descriptions:
+[]
+1 Items
+
+0:
+{}
+2 Keys
+id:
+34
+text:
+"3 points deducted due to decision by the Federation"
+position:
+13
+matches:
+25
+wins:
+6
+losses:
+10
+draws:
+9
+scoresFor:
+22
+scoresAgainst:
+38
+points:
+24
+scoreDiffFormatted:
+"-16"
+
+13:
+{}
+12 Keys
+id:
+2110893
+
+team:
+{}
+13 Keys
+name:
+"Deportes Santa Cruz"
+slug:
+"deportes-santa-cruz"
+shortName:
+"Santa Cruz"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+4102
+nameCode:
+"CRU"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+243490
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ffffff"
+secondary:
+"#000099"
+text:
+"#000099"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"ديبورتيس سانتا كروز"
+ru:
+"Санта Круз"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"سانتا كروز"
+descriptions:
+[]
+position:
+14
+matches:
+25
+wins:
+4
+losses:
+11
+draws:
+10
+scoresFor:
+26
+scoresAgainst:
+38
+points:
+22
+scoreDiffFormatted:
+"-12"
+
+14:
+{}
+12 Keys
+id:
+2110906
+
+team:
+{}
+14 Keys
+name:
+"Unión San Felipe"
+slug:
+"union-san-felipe"
+shortName:
+"San Felipe"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+3123
+nameCode:
+"USF"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3152
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ffffff"
+secondary:
+"#cc0000"
+text:
+"#cc0000"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"يونين سان فيليبي"
+ru:
+"Сан Фелипе"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"سان فيليبي"
+descriptions:
+[]
+position:
+15
+matches:
+23
+wins:
+5
+losses:
+11
+draws:
+7
+scoresFor:
+15
+scoresAgainst:
+37
+points:
+22
+scoreDiffFormatted:
+"-22"
+
+15:
+{}
+13 Keys
+id:
+2110895
+
+team:
+{}
+13 Keys
+name:
+"Rangers de Talca"
+slug:
+"rangers-de-talca"
+shortName:
+"Rangers"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+5721
+nameCode:
+"RAN"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3154
+
+teamColors:
+{}
+3 Keys
+primary:
+"#cb0409"
+secondary:
+"#070000"
+text:
+"#070000"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"رانجرز دي تالكا"
+ru:
+"Рейнджерз"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"رانجرز تالكا"
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+3
+text:
+"Relegation"
+position:
+16
+matches:
+25
+wins:
+4
+losses:
+15
+draws:
+6
+scoresFor:
+23
+scoresAgainst:
+40
+points:
+18
+scoreDiffFormatted:
+"-17"
+updatedAtTimestamp:
+1789521769

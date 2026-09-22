@@ -1,0 +1,1651 @@
+rows:
+[]
+16 Items
+
+0:
+{}
+13 Keys
+id:
+2094045
+
+team:
+{}
+14 Keys
+name:
+"Colo-Colo"
+slug:
+"colo-colo"
+shortName:
+"Colo-Colo"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+111650
+nameCode:
+"CC"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3155
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ffffff"
+secondary:
+"#ffffff"
+text:
+"#ffffff"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+4 Keys
+ar:
+"كولو كولو"
+bn:
+"কোলো কোলো"
+hi:
+"कोलो कोलो"
+ru:
+"Коло Коло"
+
+shortNameTranslation:
+{}
+1 Key
+hi:
+"कोलो-कोलो"
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+19
+text:
+"Copa Libertadores"
+position:
+1
+matches:
+23
+wins:
+17
+losses:
+3
+draws:
+3
+scoresFor:
+48
+scoresAgainst:
+22
+points:
+54
+scoreDiffFormatted:
+"+26"
+
+1:
+{}
+13 Keys
+id:
+2094043
+
+team:
+{}
+14 Keys
+name:
+"Universidad Católica"
+slug:
+"universidad-catolica"
+shortName:
+"Universidad Católica"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+38505
+nameCode:
+"UC"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3151
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ffffff"
+secondary:
+"#ffffff"
+text:
+"#ffffff"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"يونيفيرسيداد كاثوليكا"
+ru:
+"Универсидад Католика"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"يونيفيرسيداد كاثوليكا"
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+19
+text:
+"Copa Libertadores"
+position:
+2
+matches:
+23
+wins:
+13
+losses:
+7
+draws:
+3
+scoresFor:
+50
+scoresAgainst:
+33
+points:
+42
+scoreDiffFormatted:
+"+17"
+
+2:
+{}
+13 Keys
+id:
+2094056
+
+team:
+{}
+14 Keys
+name:
+"Universidad de Chile"
+slug:
+"universidad-de-chile"
+shortName:
+"U. De Chile"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+65321
+nameCode:
+"UDC"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3161
+
+teamColors:
+{}
+3 Keys
+primary:
+"#000099"
+secondary:
+"#000099"
+text:
+"#000099"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+3 Keys
+ar:
+"ليونيفيرسيداد دي شيلي"
+hi:
+"यूनिवर्सिडाड दे चिली"
+ru:
+"Универсидад де Чили"
+shortNameTranslation:
+{}
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+20
+text:
+"Copa Libertadores Qualification"
+position:
+3
+matches:
+23
+wins:
+12
+losses:
+5
+draws:
+6
+scoresFor:
+35
+scoresAgainst:
+19
+points:
+42
+scoreDiffFormatted:
+"+16"
+
+3:
+{}
+13 Keys
+id:
+2094039
+
+team:
+{}
+14 Keys
+name:
+"Everton de Viña del Mar"
+slug:
+"everton-de-vina-del-mar"
+shortName:
+"Everton"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+10730
+nameCode:
+"EVT"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+5032
+
+teamColors:
+{}
+3 Keys
+primary:
+"#000088"
+secondary:
+"#ffff00"
+text:
+"#ffff00"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"إيفرتون دي فينيا ديل مار"
+ru:
+"Эвертон Вина Дел Мар"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"إيفرتون"
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+21
+text:
+"Copa Sudamericana"
+position:
+4
+matches:
+23
+wins:
+10
+losses:
+7
+draws:
+6
+scoresFor:
+37
+scoresAgainst:
+25
+points:
+36
+scoreDiffFormatted:
+"+12"
+
+4:
+{}
+13 Keys
+id:
+2094042
+
+team:
+{}
+14 Keys
+name:
+"Palestino"
+slug:
+"palestino"
+shortName:
+"Palestino"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+22749
+nameCode:
+"PAL"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3157
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ffffff"
+secondary:
+"#000000"
+text:
+"#000000"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"بالستينو"
+ru:
+"Палестино"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"بالستينو"
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+21
+text:
+"Copa Sudamericana"
+position:
+5
+matches:
+23
+wins:
+11
+losses:
+9
+draws:
+3
+scoresFor:
+36
+scoresAgainst:
+33
+points:
+36
+scoreDiffFormatted:
+"+3"
+
+5:
+{}
+13 Keys
+id:
+2094050
+
+team:
+{}
+14 Keys
+name:
+"Deportes Limache"
+slug:
+"deportes-limache"
+shortName:
+"Deportes Limache"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+11068
+nameCode:
+"DEP"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+331131
+
+teamColors:
+{}
+3 Keys
+primary:
+"#374df5"
+secondary:
+"#374df5"
+text:
+"#ffffff"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"ديبورتيس ليماشي"
+ru:
+"Депортис Лимаче"
+
+shortNameTranslation:
+{}
+2 Keys
+ar:
+"ديبورتيس ليماشي"
+ru:
+"Депортис Лимаче"
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+21
+text:
+"Copa Sudamericana"
+position:
+6
+matches:
+23
+wins:
+10
+losses:
+10
+draws:
+3
+scoresFor:
+43
+scoresAgainst:
+35
+points:
+33
+scoreDiffFormatted:
+"+8"
+
+6:
+{}
+12 Keys
+id:
+2094055
+
+team:
+{}
+14 Keys
+name:
+"Ñublense"
+slug:
+"nublense"
+shortName:
+"Ñublense"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+14681
+nameCode:
+"NUB"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+7029
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ff0000"
+secondary:
+"#000000"
+text:
+"#000000"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"نيوبلينسي"
+ru:
+"Нубленсе"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"نيوبلينسي"
+descriptions:
+[]
+position:
+7
+matches:
+23
+wins:
+8
+losses:
+7
+draws:
+8
+scoresFor:
+28
+scoresAgainst:
+31
+points:
+32
+scoreDiffFormatted:
+"-3"
+
+7:
+{}
+12 Keys
+id:
+2094048
+
+team:
+{}
+14 Keys
+name:
+"Deportes Concepción"
+slug:
+"deportes-concepcion"
+shortName:
+"D. Concepción"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+8215
+nameCode:
+"DCO"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3160
+
+teamColors:
+{}
+3 Keys
+primary:
+"#601771"
+secondary:
+"#ffffff"
+text:
+"#ffffff"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"ديبورتس كونسيبسيون"
+ru:
+"Депортес Консепсьон"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"دي. كونسيبسيون"
+descriptions:
+[]
+position:
+8
+matches:
+23
+wins:
+9
+losses:
+10
+draws:
+4
+scoresFor:
+25
+scoresAgainst:
+26
+points:
+31
+scoreDiffFormatted:
+"-1"
+
+8:
+{}
+12 Keys
+id:
+2094049
+
+team:
+{}
+13 Keys
+name:
+"Deportes La Serena"
+slug:
+"deportes-la-serena"
+shortName:
+"La Serena"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+8576
+nameCode:
+"DLS"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+5031
+
+teamColors:
+{}
+3 Keys
+primary:
+"#9f0028"
+secondary:
+"#ffffff"
+text:
+"#ffffff"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+3 Keys
+ar:
+"ديبورتيس لا سيرينا"
+hi:
+"डेपोर्टेस ला सेरेना"
+ru:
+"Ла Серена"
+shortNameTranslation:
+{}
+descriptions:
+[]
+position:
+9
+matches:
+23
+wins:
+7
+losses:
+7
+draws:
+9
+scoresFor:
+34
+scoresAgainst:
+38
+points:
+30
+scoreDiffFormatted:
+"-4"
+
+9:
+{}
+12 Keys
+id:
+2094047
+
+team:
+{}
+13 Keys
+name:
+"Coquimbo Unido"
+slug:
+"coquimbo-unido"
+shortName:
+"Coquimbo"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+23619
+nameCode:
+"COQ"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3165
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ffe700"
+secondary:
+"#000000"
+text:
+"#000000"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+3 Keys
+ar:
+"كوكويمبو يونيدو"
+hi:
+"कॉक्विम्बो यूनिडो"
+ru:
+"Кокимбо Унидо"
+shortNameTranslation:
+{}
+descriptions:
+[]
+position:
+10
+matches:
+23
+wins:
+8
+losses:
+10
+draws:
+5
+scoresFor:
+31
+scoresAgainst:
+32
+points:
+29
+scoreDiffFormatted:
+"-1"
+
+10:
+{}
+12 Keys
+id:
+2094038
+
+team:
+{}
+14 Keys
+name:
+"Audax Italiano"
+slug:
+"audax-italiano"
+shortName:
+"Audax Italiano"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+16717
+nameCode:
+"AUD"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3162
+
+teamColors:
+{}
+3 Keys
+primary:
+"#00cc99"
+secondary:
+"#00cc99"
+text:
+"#00cc99"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+3 Keys
+ar:
+"أوداكس إيتاليانو"
+hi:
+"अउडक्स ईटालियानो"
+ru:
+"Аудакс Италиано"
+shortNameTranslation:
+{}
+descriptions:
+[]
+position:
+11
+matches:
+23
+wins:
+7
+losses:
+9
+draws:
+7
+scoresFor:
+26
+scoresAgainst:
+31
+points:
+28
+scoreDiffFormatted:
+"-5"
+
+11:
+{}
+12 Keys
+id:
+2094054
+
+team:
+{}
+13 Keys
+name:
+"Huachipato"
+slug:
+"huachipato"
+shortName:
+"Huachipato"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+13616
+nameCode:
+"HUA"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3164
+
+teamColors:
+{}
+3 Keys
+primary:
+"#000066"
+secondary:
+"#000000"
+text:
+"#000000"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+3 Keys
+ar:
+"هواتشيباتو"
+hi:
+"हुआचिपाटो"
+ru:
+"Хуачипато"
+shortNameTranslation:
+{}
+descriptions:
+[]
+position:
+12
+matches:
+22
+wins:
+8
+losses:
+10
+draws:
+4
+scoresFor:
+30
+scoresAgainst:
+39
+points:
+28
+scoreDiffFormatted:
+"-9"
+
+12:
+{}
+12 Keys
+id:
+2094041
+
+team:
+{}
+13 Keys
+name:
+"O'Higgins"
+slug:
+"ohiggins"
+shortName:
+"O'Higgins"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+15189
+nameCode:
+"OHF"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3163
+
+teamColors:
+{}
+3 Keys
+primary:
+"#00ccff"
+secondary:
+"#00ccff"
+text:
+"#00ccff"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"أوهجينز"
+ru:
+"О´Хиггинс"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"أوهجينز"
+descriptions:
+[]
+position:
+13
+matches:
+23
+wins:
+8
+losses:
+12
+draws:
+3
+scoresFor:
+28
+scoresAgainst:
+36
+points:
+27
+scoreDiffFormatted:
+"-8"
+
+13:
+{}
+12 Keys
+id:
+2094044
+
+team:
+{}
+13 Keys
+name:
+"Cobresal"
+slug:
+"cobresal"
+shortName:
+"Cobresal"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+11151
+nameCode:
+"COB"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+3167
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ffffff"
+secondary:
+"#ff9900"
+text:
+"#ff9900"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+3 Keys
+ar:
+"كوبريسال"
+hi:
+"कोब्रेसाल"
+ru:
+"Кобресал"
+shortNameTranslation:
+{}
+descriptions:
+[]
+position:
+14
+matches:
+23
+wins:
+7
+losses:
+13
+draws:
+3
+scoresFor:
+34
+scoresAgainst:
+44
+points:
+24
+scoreDiffFormatted:
+"-10"
+
+14:
+{}
+13 Keys
+id:
+2094057
+
+team:
+{}
+13 Keys
+name:
+"Universidad de Concepción"
+slug:
+"universidad-de-concepcion"
+shortName:
+"U. de Concepción"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+6520
+nameCode:
+"UCO"
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+5034
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ffff00"
+secondary:
+"#001a57"
+text:
+"#001a57"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"جامعة دي كونسيبسيون"
+ru:
+"Универсидад де Консепсьон"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"يو. دي كونسيبسيون"
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+3
+text:
+"Relegation"
+position:
+15
+matches:
+22
+wins:
+6
+losses:
+12
+draws:
+4
+scoresFor:
+17
+scoresAgainst:
+37
+points:
+22
+scoreDiffFormatted:
+"-20"
+
+15:
+{}
+13 Keys
+id:
+2094051
+
+team:
+{}
+14 Keys
+name:
+"Unión La Calera"
+slug:
+"union-la-calera"
+shortName:
+"Unión La Calera"
+gender:
+"M"
+
+sport:
+{}
+3 Keys
+name:
+"Football"
+slug:
+"football"
+id:
+1
+userCount:
+10109
+nameCode:
+"ULC"
+disabled:
+false
+national:
+false
+type:
+0
+
+country:
+{}
+4 Keys
+alpha2:
+"CL"
+alpha3:
+"CHL"
+name:
+"Chile"
+slug:
+"chile"
+id:
+48242
+
+teamColors:
+{}
+3 Keys
+primary:
+"#ff0000"
+secondary:
+"#ff0000"
+text:
+"#ff0000"
+
+fieldTranslations:
+{}
+2 Keys
+
+nameTranslation:
+{}
+2 Keys
+ar:
+"يونión لا كاليرا"
+ru:
+"Депортес Юнион Ла Калера"
+
+shortNameTranslation:
+{}
+1 Key
+ar:
+"يونión لا كاليرا"
+descriptions:
+[]
+
+promotion:
+{}
+2 Keys
+id:
+3
+text:
+"Relegation"
+position:
+16
+matches:
+23
+wins:
+4
+losses:
+14
+draws:
+5
+scoresFor:
+19
+scoresAgainst:
+40
+points:
+17
+scoreDiffFormatted:
+"-21"
+updatedAtTimestamp:
+1789594248
