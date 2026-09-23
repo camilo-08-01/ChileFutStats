@@ -11,6 +11,7 @@ builder.Services.AddControllers();
 builder.Services.AddScoped<OracleConnectionFactory>();
 builder.Services.AddScoped<EquipoRepository>();
 builder.Services.AddScoped<SofascoreService>();
+builder.Services.AddScoped<PartidoRepository>();
 
 builder.Services.AddHttpClient("Sofascore", client =>
 {

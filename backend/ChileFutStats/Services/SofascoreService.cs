@@ -30,5 +30,34 @@ namespace ChileFutStats.Services
 
             return JsonSerializer.Deserialize<SofascoreStandingsResponse>(json, _jsonOptions);
         }
+
+        public async Task<SofascoreMatchesResponse?> GetMatchesAsync(int tournamentId, int seasonId, int pageIndex = 0)
+        {
+            return await FetchMatchesAsync("tournaments/get-matches", tournamentId, seasonId, pageIndex);
+        }
+
+        public async Task<SofascoreMatchesResponse?> GetNextMatchesAsync(int tournamentId, int seasonId, int pageIndex = 0)
+        {
+            return await FetchMatchesAsync("tournaments/get-next-matches", tournamentId, seasonId, pageIndex);
+        }
+
+        public async Task<SofascoreMatchesResponse?> GetLastMatchesAsync(int tournamentId, int seasonId, int pageIndex = 0)
+        {
+            return await FetchMatchesAsync("tournaments/get-last-matches", tournamentId, seasonId, pageIndex);
+        }
+
+        private async Task<SofascoreMatchesResponse?> FetchMatchesAsync(string endpoint, int tournamentId, int seasonId, int pageIndex)
+        {
+            var client = _httpClientFactory.CreateClient("Sofascore");
+
+            var response = await client.GetAsync(
+                $"{endpoint}?pageIndex={pageIndex}&tournamentId={tournamentId}&seasonId={seasonId}");
+
+            response.EnsureSuccessStatusCode();
+
+            var json = await response.Content.ReadAsStringAsync();
+
+            return JsonSerializer.Deserialize<SofascoreMatchesResponse>(json, _jsonOptions);
+        }
     }
 }

@@ -19,3 +19,8 @@ POST {{ChileFutStats_HostAddress}}/api/equipo/sincronizar?tournamentId=1240&seas
 Accept: application/json
 
 ###
+
+POST {{ChileFutStats_HostAddress}}/api/partido/sincronizar
+Accept: application/json
+
+###
