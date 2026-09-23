@@ -12,9 +12,4 @@
     <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="23.26.301" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>

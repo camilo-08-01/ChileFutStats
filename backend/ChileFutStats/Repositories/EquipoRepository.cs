@@ -39,5 +39,38 @@ namespace ChileFutStats.Repositories
 
             return equipos;
         }
+
+        public async Task UpsertAsync(Equipo equipo)
+        {
+            using var connection = _connectionFactory.CreateConnection();
+            await connection.OpenAsync();
+
+            const string sql = @"
+        MERGE INTO Equipo e
+        USING (SELECT :EquipoId AS EquipoId FROM dual) src
+        ON (e.EquipoId = src.EquipoId)
+        WHEN MATCHED THEN
+            UPDATE SET
+                Nombre = :Nombre,
+                Slug = :Slug,
+                NombreCorto = :NombreCorto,
+                CodigoCorto = :CodigoCorto,
+                ColorPrimario = :ColorPrimario,
+                ColorSecundario = :ColorSecundario
+        WHEN NOT MATCHED THEN
+            INSERT (EquipoId, Nombre, Slug, NombreCorto, CodigoCorto, ColorPrimario, ColorSecundario)
+            VALUES (:EquipoId, :Nombre, :Slug, :NombreCorto, :CodigoCorto, :ColorPrimario, :ColorSecundario)";
+
+            using var command = new OracleCommand(sql, connection);
+            command.Parameters.Add(new OracleParameter("EquipoId", equipo.EquipoId));
+            command.Parameters.Add(new OracleParameter("Nombre", equipo.Nombre));
+            command.Parameters.Add(new OracleParameter("Slug", (object?)equipo.Slug ?? DBNull.Value));
+            command.Parameters.Add(new OracleParameter("NombreCorto", (object?)equipo.NombreCorto ?? DBNull.Value));
+            command.Parameters.Add(new OracleParameter("CodigoCorto", (object?)equipo.CodigoCorto ?? DBNull.Value));
+            command.Parameters.Add(new OracleParameter("ColorPrimario", (object?)equipo.ColorPrimario ?? DBNull.Value));
+            command.Parameters.Add(new OracleParameter("ColorSecundario", (object?)equipo.ColorSecundario ?? DBNull.Value));
+
+            await command.ExecuteNonQueryAsync();
+        }
     }
 }

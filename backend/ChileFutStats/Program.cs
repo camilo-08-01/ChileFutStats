@@ -1,5 +1,6 @@
 using ChileFutStats.Data;
 using ChileFutStats.Repositories;
+using ChileFutStats.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,14 @@ builder.Services.AddControllers();
 
 builder.Services.AddScoped<OracleConnectionFactory>();
 builder.Services.AddScoped<EquipoRepository>();
+builder.Services.AddScoped<SofascoreService>();
+
+builder.Services.AddHttpClient("Sofascore", client =>
+{
+    client.BaseAddress = new Uri("https://sofascore.p.rapidapi.com/");
+    client.DefaultRequestHeaders.Add("X-RapidAPI-Host", "sofascore.p.rapidapi.com");
+    client.DefaultRequestHeaders.Add("X-RapidAPI-Key", builder.Configuration["Sofascore:ApiKey"]);
+});
 
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();

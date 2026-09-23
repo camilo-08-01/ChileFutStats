@@ -4,3 +4,13 @@ GET {{ChileFutStats_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+POST {{ChileFutStats_HostAddress}}/api/equipo/sincronizar
+Accept: application/json
+
+###
+
+GET {{ChileFutStats_HostAddress}}/api/equipo
+Accept: application/json
+
+###
