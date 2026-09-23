@@ -25,11 +25,8 @@ namespace ChileFutStats.Controllers
         }
 
         [HttpPost("sincronizar")]
-        public async Task<IActionResult> Sincronizar()
+        public async Task<IActionResult> Sincronizar(int tournamentId = 11653, int seasonId = 88493)
         {
-            const int tournamentId = 11653; // Liga de Primera
-            const int seasonId = 88493;     // Temporada 2026
-
             var standings = await _sofascoreService.GetStandingsAsync(tournamentId, seasonId);
 
             if (standings == null || standings.Standings.Count == 0)

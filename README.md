@@ -16,8 +16,8 @@ Proyecto en desarrollo activo — siguiendo un plan de construcción por fases.
 ## Estado actual
 
 - [x] Setup inicial del repositorio
-- [ ] Modelado de base de datos
-- [ ] API backend
+- [x] Modelado de base de datos
+- [x] API backend (equipos + sincronizacion con Sofascore)
 - [ ] Autenticación
 - [ ] Sistema de pronósticos
 - [ ] Frontend
