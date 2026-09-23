@@ -1,6 +1,6 @@
 ﻿using Oracle.ManagedDataAccess.Client;
 
-namespace ChileFutStats.Api.Data
+namespace ChileFutStats.Data
 {
     public class OracleConnectionFactory
     {

@@ -1,4 +1,5 @@
-using ChileFutStats.Api.Data;
+using ChileFutStats.Data;
+using ChileFutStats.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 builder.Services.AddScoped<OracleConnectionFactory>();
+builder.Services.AddScoped<EquipoRepository>();
 
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();

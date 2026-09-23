@@ -1,7 +1,7 @@
-﻿using ChileFutStats.Api.Data;
+﻿using ChileFutStats.Data;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ChileFutStats.Api.Controllers
+namespace ChileFutStats.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
