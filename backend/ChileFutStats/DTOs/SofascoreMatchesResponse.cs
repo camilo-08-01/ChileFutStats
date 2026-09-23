@@ -33,6 +33,12 @@ namespace ChileFutStats.DTOs
 
         [JsonPropertyName("startTimestamp")]
         public long StartTimestamp { get; set; }
+       
+        [JsonPropertyName("tournament")]
+        public SofascoreEventTournament? Tournament { get; set; }
+
+        [JsonPropertyName("season")]
+        public SofascoreSeason? Season { get; set; }
     }
 
     public class SofascoreScore
@@ -57,5 +63,26 @@ namespace ChileFutStats.DTOs
     {
         [JsonPropertyName("round")]
         public int Round { get; set; }
+    }
+
+    public class SofascoreEventTournament
+    {
+        [JsonPropertyName("name")]
+        public string Name { get; set; } = string.Empty;
+
+        [JsonPropertyName("uniqueTournament")]
+        public SofascoreUniqueTournament? UniqueTournament { get; set; }
+    }
+
+    public class SofascoreUniqueTournament
+    {
+        [JsonPropertyName("id")]
+        public int Id { get; set; }
+    }
+
+    public class SofascoreSeason
+    {
+        [JsonPropertyName("year")]
+        public string Year { get; set; } = string.Empty;
     }
 }

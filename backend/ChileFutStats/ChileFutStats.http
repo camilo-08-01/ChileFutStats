@@ -24,3 +24,8 @@ POST {{ChileFutStats_HostAddress}}/api/partido/sincronizar
 Accept: application/json
 
 ###
+
+POST {{ChileFutStats_HostAddress}}/api/partido/sincronizar?tournamentId=1240&seasonId=89007
+Accept: application/json
+
+###
