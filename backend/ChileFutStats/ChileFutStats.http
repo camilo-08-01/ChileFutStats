@@ -29,3 +29,24 @@ POST {{ChileFutStats_HostAddress}}/api/partido/sincronizar?tournamentId=1240&sea
 Accept: application/json
 
 ###
+
+POST {{ChileFutStats_HostAddress}}/api/auth/registro
+Content-Type: application/json
+
+{
+  "nombreUsuario": "camilo",
+  "email": "camilo@example.com",
+  "password": "MiClaveSegura123"
+}
+
+###
+
+POST {{ChileFutStats_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+  "nombreUsuario": "camilo",
+  "password": "MiClaveSegura123"
+}
+
+###
